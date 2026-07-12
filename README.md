@@ -117,8 +117,8 @@ pip install -r requirements.txt
 Set your API keys and launch uvicorn:
 ```powershell
 # Set API Keys
-$env:GROQ_API_KEY="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"
-$env:GEMINI_API_KEY="AQ.Ab8RN6JgRB9adVhdYy0fjJ8HJuYikmM896rFC3NpjP_rvYmsGw"
+$env:GROQ_API_KEY="add yours"
+$env:GEMINI_API_KEY="add yours"
 
 # Run FastAPI server in hot-reload mode
 python -m uvicorn app.main:app --port 8000 --reload
