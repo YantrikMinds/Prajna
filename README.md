@@ -1,5 +1,7 @@
 # Prajna - AI-Powered Coding & DSA Platform
 
+Link : https://prajna-3x3l.onrender.com/
+
 Prajna (Sanskrit: प्रज्ञा) means **"supreme intelligence, wisdom, or understanding"**. It is a modern, beautiful, responsive, and production-ready coding and DSA platform inspired by LeetCode, Codeforces, and HackerRank. It features real-time local code execution, an interactive AI Coding Coach, weekly virtual contests, company-specific preparation guides, technical mock interviews, and automated resume analysis.
 
 Designed to be lightweight and run seamlessly on low-resource hardware (like a 2GB RAM laptop), Prajna avoids heavy node compilation/build setups by using browser-based standalone compilation, keeping the entire project under **50MB**!
